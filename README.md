@@ -1,7 +1,7 @@
 ### Hi i'm Antonio
 
 ##
-<div alingn="center">
+<div align="center">
   <a href="https://github.com/antoniohslima">
   <img height="180em" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniohslima&layout=compact&langs_count=7&theme=dark"/>    
 </div>
